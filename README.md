@@ -76,15 +76,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imashutosh8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imashutosh8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imashutosh8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imashutosh8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imashutosh8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=imashutosh8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
